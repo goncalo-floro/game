@@ -1,2 +1,3 @@
 Ideias á parte:
-- Ideia de se o jogador quizer voltar a fazer partes do mapa, tem de resetar essa parte toda
+- Ideia de se o jogador quizer pode voltar a fazer partes do mapa de cada fase, tem de resetar essa parte toda
+- Termos percentagem de inimigos derrotados por fase.

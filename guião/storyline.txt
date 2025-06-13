@@ -10,27 +10,30 @@ Um grande guerreiro, que durante uma batalha contra forças desconhecidas foi mo
 
 -> BackStory do Parasita(n sei quando é mostrada, ou não é de todo):
 
-É de uma espécie de parasitas ancestrais que vivem milhares de anos, buscando hospedeiros para sobreviver. Ao longo de eras, manipularam civilizações inteiras em segredo. Infelizmente sofreu o mesmo destino do herói, e também foi capturado pelos aliens.
+É de uma espécie de parasitas ancestrais que vivem milhares de anos, buscando hospedeiros para sobreviver. Ao longo de eras, 
+manipularam civilizações inteiras em segredo. Infelizmente sofreu o mesmo destino do herói, e também foi capturado pelos aliens.
 Ao encontrar Reaven ferido, viu a oportunidade de formar um novo Pacto, não apenas para salvar o guerreiro, mas para si próprio.
 
--> Fases do Parasita: 
--1ª Verde 
+-> Resumo da história:
 
-
--2ª Roxo
-
-
--3ª Vermelho
-
-
-Resumo da história:
 - O jogador controla o parasita que oferece poderes ao herói para sobreviver e avançar.
-- Conforme o jogador as fases vão avançando, o herói começa a mostrar efeitos colaterais(falas do herói), o herói perde o controlo total do corpo(notado pelas falas) e vai passando só a comunicar com o parasita, deixando-o ter o controlo.
+- Conforme o jogador as fases vão avançando, o herói começa a mostrar efeitos colaterais(falas do herói),
+o herói perde o controlo total do corpo(notado pelas falas) e vai passando só a comunicar com o parasita, deixando-o ter o controlo.
+- Na fase final o herói é forçado a matar os da própria espécie.
 
-
-História Completa(incompleta):
+-> História Completa:
 
 Depois da backstory do Raeven, vemo-lo a falar com o parasita.
 O jogador, sem saber inicialmente que é o próprio parasita, começa a ajudar Reaven com poderes para sobreviver(tutorial).
-A voz do Parasita comunica com o Player, começando a controlar o player.
-Na fase final deixamos de ouvir o Raeven Falar. Só o parasita é que fala conosco.
+A voz do Parasita comunica com o Player, começando a mostrar os controles ao player.
+
+Na segunda fase o herói chega ao planeta dos aliens que o raptaram(entra a 2ª evolução do parasita).
+Aí ele vai ter que derrotá-los até chegar á base espacial dos alienígenas, aonde ele irá encontrar uma nave para regressar ao seu planeta.
+Nesta fase ele irá encontrar um cientista que poderá ajudar o herói a tirar o parasita. Mas para desbloquear o final aonde o herói
+é salvo, o player terá de matar 100% dos inimigos, depois sim tirar o parasita,
+e aí o herói poderá voltar ao seu planeta e ter um final feliz.
+
+Na fase final(chegada ao planeta do herói), se o player não conseguir chegar ao final escondido, deixamos de ouvir o Raeven Falar.
+Só o parasita é que fala com o player(entra a 3ª evolução do parasita), 
+fazendo com que os inimigos sejam os da própria espécie do Raeven.
+Para acabar o jogo, o Raeven terá que morrer(ainda tou a descobrir como acabar).
