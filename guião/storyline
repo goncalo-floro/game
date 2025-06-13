@@ -1,31 +1,36 @@
-Ideias
-
 Título: Pacto 
-herói: Soven
-Parasita(player): Selgoth(sel)
-inimigos: 
+herói: Reaven
+Parasita(player): Selgoth(sel) - tem de falar tanto com o herói, como com o player para lhe dar instruções
+inimigos: ...
 
 
-BackStory do herói(mostrada no início do jogo):
+-> BackStory do herói(mostrada no início do jogo):
 
-Um grande guerreiro, que durante uma batalha contra forças desconhecidas foi mortalmente ferido. Este viu-se 
+Um grande guerreiro, que durante uma batalha contra forças desconhecidas foi mortalmente ferido. Ainda meio inconscientem, vê os aliens a levá-lo para um esgoto.
 
-BackStory do Parasita(n sei quando é mostrada, ou não é de todo):
+-> BackStory do Parasita(n sei quando é mostrada, ou não é de todo):
 
+É de uma espécie de parasitas ancestrais que vivem milhares de anos, buscando hospedeiros para sobreviver. Ao longo de eras, manipularam civilizações inteiras em segredo. Infelizmente sofreu o mesmo destino do herói, e também foi capturado pelos aliens.
+Ao encontrar Reaven ferido, viu a oportunidade de formar um novo Pacto, não apenas para salvar o guerreiro, mas para si próprio.
 
-
-
-Fases do Parasita: 
--1ª
-
-
--2ª
+-> Fases do Parasita: 
+-1ª Verde 
 
 
--3ª
+-2ª Roxo
+
+
+-3ª Vermelho
 
 
 Resumo da história:
 - O jogador controla o parasita que oferece poderes ao herói para sobreviver e avançar.
-- No início, as ações do parasita são claramente boas
-- Conforme o jogador usa mais poder e influência, o herói começa a mostrar efeitos colaterais, o herói perde o controlo total do corpo(acrescentar falas) e vai passando só a comunicar com o parasita, deixando-o ter o controlo.
+- Conforme o jogador as fases vão avançando, o herói começa a mostrar efeitos colaterais(falas do herói), o herói perde o controlo total do corpo(notado pelas falas) e vai passando só a comunicar com o parasita, deixando-o ter o controlo.
+
+
+História Completa(incompleta):
+
+Depois da backstory do Raeven, vemo-lo a falar com o parasita.
+O jogador, sem saber inicialmente que é o próprio parasita, começa a ajudar Reaven com poderes para sobreviver(tutorial).
+A voz do Parasita comunica com o Player, começando a controlar o player.
+Na fase final deixamos de ouvir o Raeven Falar. Só o parasita é que fala conosco.
