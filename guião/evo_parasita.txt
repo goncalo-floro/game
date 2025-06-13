@@ -1,8 +1,13 @@
 -> evoluções do Parasita: 
 -1ª Verde - adquirida no início da história
-
+Ataques: só corpo a corpo
+Aparência: Humano com partes da cara, pés e mãos verdes
 
 -2ª Roxo - adquirida quando o Player está a chegar ao planeta dos aliens
-
+Ataques: corpo a corpo + longa distância
+Aparência: Humano com o corpo todo roxo, só com os olhos humanos
 
 -3ª Vermelho - adquirida quando o jogador tiver a ir para o planeta do herói, se não for tirado o parasita
+Ataques: corpo a corpo + longa-distância
+Aparência: Lama viscosa vermelha
+

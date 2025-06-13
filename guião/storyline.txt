@@ -1,8 +1,6 @@
 Título: Pacto 
 herói: Reaven
 Parasita(player): Selgoth(sel) - tem de falar tanto com o herói, como com o player para lhe dar instruções
-inimigos: ...
-
 
 -> BackStory do herói(mostrada no início do jogo):
 
@@ -36,4 +34,4 @@ e aí o herói poderá voltar ao seu planeta e ter um final feliz.
 Na fase final(chegada ao planeta do herói), se o player não conseguir chegar ao final escondido, deixamos de ouvir o Raeven Falar.
 Só o parasita é que fala com o player(entra a 3ª evolução do parasita), 
 fazendo com que os inimigos sejam os da própria espécie do Raeven.
-Para acabar o jogo, o Raeven terá que morrer(ainda tou a descobrir como acabar).
+Para acabar o jogo, o Raeven terá que morrer, parado pela sua espécie(espécie de rondas infinitas, até ser derrotado), aí o parasita é capturado.

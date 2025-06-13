@@ -1,3 +1,10 @@
+Ideias Defenitivas:
+
+
+
+
 Ideias á parte:
-- Ideia de se o jogador quizer pode voltar a fazer partes do mapa de cada fase, tem de resetar essa parte toda
-- Termos percentagem de inimigos derrotados por fase.
+- Ideia de se o jogador quizer pode voltar a fazer partes do mapa de cada fase, tem de resetar essa fase toda
+- Termos percentagem de inimigos derrotados por fase, e percentagem de mapa descoberto por cada fase.
+- Não há recursos, os únicos achievements estão relacionados com o ponto anterior.
+- Os monstros são mortos defenitivamente, as percentagens não mudam, a não ser que uma fase seja resetada.

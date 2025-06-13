@@ -1,0 +1,17 @@
+-> 1ª fase - dentro da nave: 
+
+
+Boss final:
+
+
+-> 2ª fase - planeta dos alienígenas:
+
+
+Boss final:
+
+
+-> 3ª fase - volta ao planeta do herói:
+
+
+Boss final: rondas crescentes de inimigos, o player nunca conseguirá derrotá-los, podemos fazer uma espécie de highScore.
+
