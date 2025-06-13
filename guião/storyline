@@ -6,11 +6,12 @@ Parasita(player): Selgoth(sel)
 inimigos: 
 
 
-BackStory do herói:
+BackStory do herói(mostrada no início do jogo):
 
+Um grande guerreiro, que durante uma batalha contra forças desconhecidas foi mortalmente ferido. Este viu-se 
 
+BackStory do Parasita(n sei quando é mostrada, ou não é de todo):
 
-BackStory do Parasita:
 
 
 
@@ -26,9 +27,5 @@ Fases do Parasita:
 
 Resumo da história:
 - O jogador controla o parasita que oferece poderes ao herói para sobreviver e avançar.
-
-partes do mapa:
-
-
-Ideias á parte:
-- Ideia de se o jogador quizer voltar a fazer partes do mapa, tem de resetar essa parte toda
+- No início, as ações do parasita são claramente boas
+- Conforme o jogador usa mais poder e influência, o herói começa a mostrar efeitos colaterais, o herói perde o controlo total do corpo(acrescentar falas) e vai passando só a comunicar com o parasita, deixando-o ter o controlo.
