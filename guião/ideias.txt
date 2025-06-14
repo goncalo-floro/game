@@ -10,3 +10,4 @@ Ideias á parte:
 - Os monstros são mortos defenitivamente, as percentagens não mudam, a não ser que uma fase seja resetada.
 - Tentar com que os monstros não sejam lineares, ou seja terem velociadades randomizadas, padrões de ataque diferentes, 
 para o Player ter de estar mais ativo
+- Tentar que o nível de dificulade seja não motivada pela skill de combate só, mas também na exploração do mapa(mais no início do jogo).
