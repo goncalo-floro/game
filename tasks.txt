@@ -20,4 +20,23 @@
     ...
 
 
-----A----
+----Game----
+
+-> Personagens: 
+    aplicar animações
+    força das luzes
+    Resolver a situação de contagem de personagens
+    Construção dos bots
+    ...
+
+-> Cenários 
+    Construção do mapa
+    Aplicar os tiles, plataformas movíveis, lasers
+
+-> Menu
+    Menu inicial, settings de controlos
+    Menu depois do play(com saves do jogo) e os achievements já feitos
+    Menu depois de escolhido o Save(mapa do jogo, com as 3 fases, a percentagem do mapa desbloqueada em cada uma, e a percentagem de inimigos derrotados)
+        - este Menu terá o Botão de resetar uma fase do jogo, pois os bots morrem defenitivamente. Quando um player passa de uma fase para a outra, a anterior passa a estar bloqueada.
+
+-----------
