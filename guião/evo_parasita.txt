@@ -8,6 +8,5 @@ Ataques: corpo a corpo + longa distância
 Aparência: Humano com o corpo todo roxo, só com os olhos humanos
 
 -3ª Vermelho - adquirida quando o jogador tiver a ir para o planeta do herói, se não for tirado o parasita
-Ataques: corpo a corpo + longa-distância
-Aparência: Lama viscosa vermelha
-
+Ataques: corpo a corpo + longa-distância + escudo contra todos os ataques
+Aparência: Lama viscosa vermelha, não há olhos, só um buraco na cara

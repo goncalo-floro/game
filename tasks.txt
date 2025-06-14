@@ -1,0 +1,23 @@
+----Arte----
+
+-> Personagens e Inimigos - Animações de:
+    parado
+    a andar
+    a atacar
+    a morrer
+    ...
+
+-> Cenários
+    Desenhar tiles (blocos de chão, parede, teto, decoração, plataformas movíveis)
+    Desenhar backgrounds fixos ou por layers
+    ...
+
+-> Partículas - Pequenas animações de:
+    Poeira
+    Sangue
+    Explosões
+    Luzes
+    ...
+
+
+----A----
