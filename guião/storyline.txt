@@ -25,7 +25,7 @@ Depois da backstory do Raeven, vemo-lo a falar com o parasita.
 O jogador, sem saber inicialmente que é o próprio parasita, começa a ajudar Reaven com poderes para sobreviver(tutorial).
 A voz do Parasita comunica com o Player, começando a mostrar os controles ao player.
 
-Na segunda fase o herói chega ao planeta dos aliens que o raptaram(entra a 2ª evolução do parasita).
+Na segunda fase o herói chega ao planeta dos aliens(Sane) que o raptaram(entra a 2ª evolução do parasita).
 Aí ele vai ter que derrotá-los até chegar á base espacial dos alienígenas, aonde ele irá encontrar uma nave para regressar ao seu planeta.
 Nesta fase ele irá encontrar um cientista que poderá ajudar o herói a tirar o parasita. Mas para desbloquear o final aonde o herói
 é salvo, o player terá de matar 100% dos inimigos, depois sim tirar o parasita,

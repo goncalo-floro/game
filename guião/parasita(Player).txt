@@ -1,0 +1,19 @@
+-> Vida/maneira de morrer:
+    3 pontos de vida(recuperados ao longo do tempo) - cada vez que é atingido
+    Representação das vidas, com 2 fica a piscar, com 1 a tela começa a piscar(vermelho)
+
+-> evoluções do Parasita: 
+    -1ª Verde - adquirida no início da história
+        Ataques: só corpo a corpo
+        Aparência: Humano com partes da cara, pés e mãos verdes
+        recuperação de vida: 7 segundos (por ponto) - sem tomar dano
+
+    -2ª Roxo - adquirida quando o Player está a chegar ao planeta dos aliens
+        Ataques: corpo a corpo + longa distância
+        Aparência: Humano com o corpo todo roxo, só com os olhos humanos
+        recuperação de vida: 5 segundos (por ponto) - sem tomar dano
+
+    -3ª Vermelho - adquirida quando o jogador tiver a ir para o planeta do herói, se não for tirado o parasita
+        Ataques: corpo a corpo + longa-distância + escudo contra todos os ataques
+        Aparência: Lama viscosa vermelha, não há olhos, só um buraco na cara
+        recuperação de vida: 3 segundos (por ponto) - sem tomar dano

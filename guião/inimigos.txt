@@ -4,7 +4,7 @@ inimigos normais:
 Boss final:
 
 
--> 2ª fase - planeta dos alienígenas:
+-> 2ª fase - planeta dos alienígenas(Sane):
 
 inimigos normais:
 Boss final:
@@ -12,6 +12,6 @@ Boss final:
 
 -> 3ª fase - volta ao planeta do herói:
 
-inimigos normais: snipers(único counter seria a armadura)
+inimigos normais: snipers(único counter seria a armadura), ...
 Boss final: rondas crescentes de inimigos, o player nunca conseguirá derrotá-los, podemos fazer uma espécie de highScore.
 
