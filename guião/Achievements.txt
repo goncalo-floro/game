@@ -1,7 +1,8 @@
 -> 1ª fase - dentro da nave: 
 
     - No Body can be that Dumb! - morrer no tutorial
-    - Aeroplane? - completar a primeira fase
+    - Am I rich? - encontra a sala dos artifactos 
+    - What am I doing? - completar a primeira fase
     - Cruising... - completar a primeira fase com 100% do mapa desbloqueado, e 100% dos inimigos derrotados
 
 -> 2ª fase - planeta dos alienígenas:

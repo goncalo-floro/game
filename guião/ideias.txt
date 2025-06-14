@@ -8,3 +8,5 @@ Ideias á parte:
 - Termos percentagem de inimigos derrotados por fase, e percentagem de mapa descoberto por cada fase.
 - Não há recursos, os únicos achievements estão relacionados com o ponto anterior.
 - Os monstros são mortos defenitivamente, as percentagens não mudam, a não ser que uma fase seja resetada.
+- Tentar com que os monstros não sejam lineares, ou seja terem velociadades randomizadas, padrões de ataque diferentes, 
+para o Player ter de estar mais ativo
