@@ -14,6 +14,7 @@
         recuperação de vida: 5 segundos (por ponto) - sem tomar dano
 
     -3ª Vermelho - adquirida quando o jogador tiver a ir para o planeta do herói, se não for tirado o parasita
-        Ataques: corpo a corpo + longa-distância + escudo contra todos os ataques
+        Ataques: corpo a corpo + longa-distância + parede que é uma entidade(sendo possível ser destruída, 
+        o herói pode subi-la, e tem cooldown(5 segundos), e um tempo de vida(7 segundos)).
         Aparência: Lama viscosa vermelha, não há olhos, só um buraco na cara
         recuperação de vida: 3 segundos (por ponto) - sem tomar dano
