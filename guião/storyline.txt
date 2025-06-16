@@ -4,7 +4,8 @@ Parasita(player): Selgoth(sel) - tem de falar tanto com o herói, como com o pla
 
 -> BackStory do herói(mostrada no início do jogo):
 
-Um grande guerreiro, que durante uma batalha contra forças desconhecidas foi mortalmente ferido. Ainda meio inconscientem, vê os aliens a levá-lo para um esgoto.
+Um grande guerreiro, que durante uma batalha contra forças desconhecidas foi mortalmente ferido, e perdeu um braço(esquerdo). 
+Ainda meio inconscientem, vê os aliens a levá-lo para um esgoto.
 
 -> BackStory do Parasita(n sei quando é mostrada, ou não é de todo):
 
