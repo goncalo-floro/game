@@ -4,8 +4,8 @@
 
 -> evoluções do Parasita: 
     -1ª Verde - adquirida no início da história
-        Ataques: só corpo a corpo
-        Aparência: Humano com partes da cara, pés e mãos verdes (mão esquerda o herói não tem, ent é substituído por um espinho, 
+        Ataques: só corpo a corpo(tem 3 fases, é sequencial se os ataques forem seguidos)
+        Aparência: Humano com partes da cara, pés e mãos verdes (braço esquerdo o herói não tem, ent é substituído por um espinho, 
         que é o ataque corpo a corpo) 
         recuperação de vida: 7 segundos (por ponto) - sem tomar dano
 

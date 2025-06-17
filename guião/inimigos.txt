@@ -12,6 +12,6 @@ Boss final:
 
 -> 3ª fase - volta ao planeta do herói:
 
-inimigos normais: snipers(único counter seria a armadura), ...
+inimigos normais: snipers, ...
 Boss final: rondas crescentes de inimigos, o player nunca conseguirá derrotá-los, podemos fazer uma espécie de highScore.
 
