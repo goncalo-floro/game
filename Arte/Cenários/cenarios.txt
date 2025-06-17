@@ -1,8 +1,22 @@
 ----Enumerados os que são para fazer----
-->  :
-    - 
-    - 
-    - 
-    - 
+Cada parte terá que ter no mínimo:
+- 5 chãos (sem limites, limites na direita e esquerda, virado para baixo e para cima)
+- 2 paredes(direita e esquerda)
+- 5 tetos (mesmo que o chão)
+----------------------------------------
 
-->
+-> Prison - tons de castanhos claros, cinzento, ... 
+
+-> Residências - tons de azul escuro, laranja
+
+-> Residências da tripulação - tons de azul escuro, laranja
+
+-> Escape Pots - cinzento, preto
+
+-> Engine - castanho escuro, cinzentos
+
+-> Security Room - muitos tons de cinzento, e azul
+
+-> Boss Room(sala do Boss) - laranja escuro no chão, paredes e teto vermelho escuro
+
+-> Search and Security - chão vermelho escuro, confundido com cinzento 

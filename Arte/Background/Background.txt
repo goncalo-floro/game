@@ -1,0 +1,17 @@
+----Enumerados os que são para fazer----
+
+-> Prison - 
+
+-> Residências - 
+
+-> Residências da tripulação - 
+
+-> Escape Pots - 
+
+-> Engine - 
+
+-> Security Room - 
+
+-> Boss Room(sala do Boss) - 
+
+-> Search and Security - 
