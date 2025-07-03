@@ -1,7 +1,8 @@
 -> Vida/maneira de morrer:
     3 pontos de vida(recuperados ao longo do tempo) - cada vez que é atingido
     Representação das vidas, com 2 fica a piscar, com 1 a tela começa a piscar(vermelho)
-    Abilidade de procura de objetos que se possam partir
+-> Abilidades
+     Procura de objetos que se possam partir
 -> evoluções do Parasita: 
     -1ª Verde - adquirida no início da história
         Ataques: só corpo a corpo(tem 3 fases, é sequencial se os ataques forem seguidos)
