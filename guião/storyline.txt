@@ -11,20 +11,20 @@ Ainda meio inconscientem, vê os aliens a levá-lo para um esgoto.
 
 É de uma espécie de parasitas ancestrais que vivem milhares de anos, buscando hospedeiros para sobreviver. Ao longo de eras, 
 manipularam civilizações inteiras em segredo. Infelizmente sofreu o mesmo destino do herói, e também foi capturado pelos aliens.
-Ao encontrar Reaven ferido, viu a oportunidade de formar um novo Pacto, não apenas para salvar o guerreiro, mas para si próprio.
+Ao encontrar Reaven ferido, viu a oportunidade de formar um novo Pacto, não apenas para salvar o guerreiro, mas para slvar-se a si próprio.
 
 -> Resumo da história:
 
 - O jogador controla o parasita que oferece poderes ao herói para sobreviver e avançar.
 - Conforme o jogador as fases vão avançando, o herói começa a mostrar efeitos colaterais(falas do herói),
-o herói perde o controlo total do corpo(notado pelas falas) e vai passando só a comunicar com o parasita, deixando-o ter o controlo.
+o herói perde o controlo total do corpo(notado pela falta de falas).
 - Na fase final o herói é forçado a matar os da própria espécie.
 
 -> História Completa:
 
 Depois da backstory do Raeven, vemo-lo a falar com o parasita.
 O jogador, sem saber inicialmente que é o próprio parasita, começa a ajudar Reaven com poderes para sobreviver(tutorial).
-A voz do Parasita comunica com o Player, começando a mostrar os controles ao player.
+A voz do herói comunica com o Player, começando a mostrar os controles ao player.
 
 Na segunda fase o herói chega ao planeta dos aliens(Sane) que o raptaram(entra a 2ª evolução do parasita).
 Aí ele vai ter que derrotá-los até chegar á base espacial dos alienígenas, aonde ele irá encontrar uma nave para regressar ao seu planeta.

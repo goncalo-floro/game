@@ -2,9 +2,11 @@
     3 pontos de vida(recuperados ao longo do tempo) - cada vez que é atingido
     Representação das vidas, com 2 fica a piscar, com 1 a tela começa a piscar(vermelho)
 -> Abilidades
-     Procura de objetos que se possam partir
+    1ª fase:
+        - Procura de objetos que se possam partir(início)
+        - 
 -> evoluções do Parasita: 
-    -1ª Verde - adquirida no início da história
+    -1ª Verde - adquirida nas residências da história
         Ataques: só corpo a corpo(tem 3 fases, é sequencial se os ataques forem seguidos)
         Aparência: Humano com partes da cara, pés e mãos verdes (braço esquerdo o herói não tem, ent é substituído por um espinho, 
         que é o ataque corpo a corpo) 
