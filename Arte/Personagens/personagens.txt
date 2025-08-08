@@ -2,7 +2,16 @@
 
 -> Personagem principal:
   - Fase inicial(até ao herói ganhar o parasita):
-    uma imagem de referência do herói, e outra dele sem o braço esquerdo
+    Parado - 1 frame(mín)
+    Andar para cada lado precisa 3 frames - pé esquerdo á frente, pé direito á frente, quado os 2 pés estão no mesmo (6 no total, direito e esquerdo)
+    Dash - 1 frame - movimento rápido
+    salto - 1 frame - movimento rápido para cima
+    Ataques corpo a corpo(sequencial) - :
+        - slash para a esquerda - 2 frames - 
+        - slash para a direita - 2 frames - 
+        - ataque final(abriria espinhos no no espinho maior e ficava uma tipo uma maça medieval) - 3 frames
+            levanta a mão e os espinhos abrem, o braço a meio, impacto no chão.
+    uma imagem de referência do herói sem o braço esquerdo
 
   - Fase parasita 1 (herói + parasita verde que ocupa parte dos pés, a mão direita, o braço esquerdo inteiro, 
   que é uma espécie de espinho afiado, e uma parte pequena da cabeça) Frames:

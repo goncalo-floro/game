@@ -15,16 +15,21 @@ Ao encontrar Reaven ferido, viu a oportunidade de formar um novo Pacto, não ape
 
 -> Resumo da história:
 
-- O jogador controla o parasita que oferece poderes ao herói para sobreviver e avançar.
-- Conforme o jogador as fases vão avançando, o herói começa a mostrar efeitos colaterais(falas do herói),
+- O jogador é o parasita que oferece poderes ao herói para sobreviver e avançar.
+- Conforme as fases vão avançando, o herói começa a mostrar efeitos colaterais(falas do herói), e
 o herói perde o controlo total do corpo(notado pela falta de falas).
-- Na fase final o herói é forçado a matar os da própria espécie.
+- Na segunda parte, o herói irá lutar contra o player(aonde o player terá de decidir o final)
+- Na fase final, se o player matar o herói, ele é forçado a matar os da própria espécie.
 
 -> História Completa:
 
 Depois da backstory do Raeven, vemo-lo a falar com o parasita.
 O jogador, sem saber inicialmente que é o próprio parasita, começa a ajudar Reaven com poderes para sobreviver(tutorial).
 A voz do herói comunica com o Player, começando a mostrar os controles ao player.
+
+A meio da primeira fase, o herói irá encontrar um inimigo que não consegue derrotar, e aí se evidencia a primeira parte do parasita
+Este inimigo vai ser uma espécie de boss, em que depois do player morrer a primeira vez, há uma cutscene, aonde o herói perde o braço,
+e o parasita para a substituí-lo
 
 Na segunda fase o herói chega ao planeta dos aliens(Sane) que o raptaram(entra a 2ª evolução do parasita).
 Aí ele vai ter que derrotá-los até chegar á base espacial dos alienígenas, aonde ele irá encontrar uma nave para regressar ao seu planeta.
